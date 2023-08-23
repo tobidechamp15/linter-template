@@ -1,1 +1,1 @@
-console.log("lint")
+console.log("lint");

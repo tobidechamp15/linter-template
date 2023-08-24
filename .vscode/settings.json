@@ -27,5 +27,9 @@
         "titleBar.border": "#832561",
         "titleBar.inactiveBackground": "#83256199",
         "titleBar.inactiveForeground": "#e7e7e799"
-    }
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "problems.decorations.enabled": true,
 }

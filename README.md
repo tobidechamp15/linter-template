@@ -1,1 +1,1 @@
-# linter-template
+# lint-template
